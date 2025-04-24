@@ -1,10 +1,7 @@
 [![Banner](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)]
 
 <h1 align='center'>Hey, I'm Krishna! 👋</h1>
-<p align='center'>
-  Founder’s Office @ <a href="https://waxwing.ai">Waxwing.ai</a> • CS + Math Student @ BITS Pilani<br>
-  Innovating AI-Powered Talent Solutions & Building Future-Ready Workflows 🚀
-</p>
+
 
 <p align='center'>
   💼 <a href="https://www.linkedin.com/in/mr-krishna-bhagat/">LinkedIn</a> • 🐦 <a href="https://x.com/Mr_Krishna_B0">Twitter/X</a> • ✉️ mr.krishnabhagat@gmail.com
