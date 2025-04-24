@@ -1,13 +1,8 @@
-# 👋 Hi, I'm Krishna
+[![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://jhey.dev)
+<h1 align='center'> Hi! :wave:</h1>
+<p align='center'>
+I'm Jhey.
+</p>
+<p align='center'>For enquiries, reach out @ jhey@jhey.dev or over on <a href="https://twitter.com/jh3yy">Twitter</a>.</p>
 
-I'm a dual-degree student at BITS Pilani, passionate about AI, cybersecurity, and startups. Currently building at Waxwing.ai.
-
-## 🚀 Projects
-- 🔐 Cyber Intrusion Novel Series
-- 🧠 AI Marketplace: [Waxwing.ai](https://waxwing.ai)
-
-## 🛠 Tech Stack
-Python | React | Streamlit | MongoDB | Docker | GCP 
-
-
-
+<h1 align='center'><i>Stay awesome!</i></h1>
