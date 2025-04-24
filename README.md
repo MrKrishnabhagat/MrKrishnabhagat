@@ -25,15 +25,6 @@ As a dual-degree student (CS + Math) at **BITS Pilani**, I’m passionate about 
 
 `Python` • `JavaScript` • `React.js` • `Streamlit` • `Node.js` • `MongoDB` • `GCP` • `Docker`
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrKrishnabhagat&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrKrishnabhagat&theme=radical" alt="GitHub Streak" />
-</p>
-
 
 
 <h1 align='center'><i>Stay Curious, Stay Building!</i></h1>
