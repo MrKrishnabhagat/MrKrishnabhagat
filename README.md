@@ -4,7 +4,7 @@
 
 
 <p align='center'>
-  💼 <a href="https://www.linkedin.com/in/mr-krishna-bhagat/">LinkedIn</a> • 🐦 <a href="https://x.com/Mr_Krishna_B0">Twitter/X</a> • ✉️ mr.krishnabhagat@gmail.com
+  💼 <a href="https://www.linkedin.com/in/mr-krishna-bhagat/">LinkedIn</a> • 🐦 <a href="https://x.com/Mr_Krishna_B0">Twitter/X</a> • ✉️ krishnabhagat2104@gmail.com
 </p>
 
 ---
